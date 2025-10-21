@@ -100,7 +100,7 @@ npx hardhat verify --network mumbai <contract_address>
 ```
 
 
-🔒 Environment Variables
+## 🔒 Environment Variables
 
 | Variable               | Description                          |
 | ---------------------- | ------------------------------------ |
@@ -110,7 +110,7 @@ npx hardhat verify --network mumbai <contract_address>
 | `NFT_STORAGE_KEY`      | NFT.Storage API key for IPFS uploads |
 
 
-🧰 Tools Used
+## 🧰 Tools Used
 
 Hardhat
 OpenZeppelin Contracts
@@ -119,13 +119,13 @@ Ethers.js
 Polygon Mumbai Testnet
 
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 Feel free to use and modify it for your own NFT projects.
 
 
-🤝 Acknowledgements
+## 🤝 Acknowledgements
 
 OpenZeppelin
 Alchemy
